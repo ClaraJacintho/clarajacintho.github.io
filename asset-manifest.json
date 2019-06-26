@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.196f175f.chunk.css",
+    "main.js": "/static/js/main.5c39cb79.chunk.js",
+    "main.js.map": "/static/js/main.5c39cb79.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.61ad9a81.chunk.js": "/static/js/2.61ad9a81.chunk.js",
+    "static/js/2.61ad9a81.chunk.js.map": "/static/js/2.61ad9a81.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.544810538ecfcdc44a5d1838a1038ff1.js": "/precache-manifest.544810538ecfcdc44a5d1838a1038ff1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.196f175f.chunk.css.map": "/static/css/main.196f175f.chunk.css.map",
+    "static/media/MariaClaraJacintho_CV.pdf": "/static/media/MariaClaraJacintho_CV.7b513376.pdf",
+    "static/media/gesture.jpg": "/static/media/gesture.7ced1d0f.jpg",
+    "static/media/handyman.jpg": "/static/media/handyman.12719e80.jpg",
+    "static/media/petit.jpg": "/static/media/petit.f36d38ae.jpg",
+    "static/media/portfolio.jpg": "/static/media/portfolio.24fa151b.jpg"
+  }
+}
