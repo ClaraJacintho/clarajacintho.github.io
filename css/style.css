@@ -1,0 +1,71 @@
+
+.wrapper, html, body {
+    height: 100%;
+    margin: 0;
+}
+body{
+  background-color:#F0EAD6;
+}
+
+.wrapper{
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (max-width: 600px){
+   .wrapper{
+      flex-direction: column-reverse;
+      justify-content: flex-end;
+      align-items: center;
+   }
+}
+
+
+#picture-wrapper{
+  flex: 0 0 40%;
+}
+
+#content{
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #264027;
+  text-align: center;
+  
+  flex: 0 0 60%;
+}
+
+#profile-pic{
+  width: 70%;
+  text-align: center;
+
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 50%;
+  border: 7px solid #264027;
+}
+
+a {
+  text-decoration: none;
+}
+
+button{
+   background-color: transparent;
+   border: none;
+   display: block;
+}
+
+.btn{
+  color: #264027; 
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.btn:hover{
+  color: #6A8D73;
+}
+
+#button-row{
+  text-align: center;
+}
